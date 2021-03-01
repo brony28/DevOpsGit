@@ -3,8 +3,8 @@ Demo repo for DevOps Practicals
 
 
 Branches:
-__master__ branch<br>
-__demobranch__ branch
+1. __master__ branch
+2. __demobranch__ branch
 
 Commands Used:
 * init
