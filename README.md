@@ -14,6 +14,7 @@ Commands Used:
 * commit
 * remote
 * push
+* pull
 * branch
 * checkout
 * clone
